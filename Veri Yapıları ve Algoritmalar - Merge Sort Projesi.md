@@ -13,3 +13,6 @@
 
 - Soru 2 :Big-O gösterimini yazınız.
 - Cevap 2 : O(nlogn)
+
+## Patika Profilim
+[https://app.patika.dev/recai](https://app.patika.dev/recai)
