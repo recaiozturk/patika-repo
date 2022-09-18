@@ -1,0 +1,15 @@
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri.exe
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri.deps.json
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri.runtimeconfig.json
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri.dll
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\bin\Debug\net6.0\Tip Dönüşümleri.pdb
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.AssemblyInfo.cs
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.dll
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\refint\Tip Dönüşümleri.dll
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.pdb
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\Tip Dönüşümleri.genruntimeconfig.cache
+C:\Users\90531\Desktop\c#-101\Tip Dönüşümleri\obj\Debug\net6.0\ref\Tip Dönüşümleri.dll
