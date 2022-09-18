@@ -1,0 +1,38 @@
+byte b=5; // 1 byte
+sbyte sb=5;// 1 byte
+
+short s=5;// 2 byte
+ushort us=5;// 2 byte
+
+Int16 i16=5;// 2 byte
+int i=2;// 4 byte
+uint ui=2; // 4 byte
+Int32 i32=2;// 4 byte
+Int64 i64=2;// 4 byte
+
+long l=5; // 8 byte
+ulong ul=5; // 8 byte
+
+float f=1.1f; // 4 byte
+double d=1.1; // 8 byte
+decimal de=5; // 16 byte
+
+char ch='2'; // 2 byte
+string str="Bahattin"; //sınırsız
+
+bool b1=true;//1 byte
+bool b2=false;//1 byte
+
+DateTime dt=DateTime.Now;
+Console.WriteLine(dt);
+
+object o1="x";
+object o2='y';
+object o3=4;
+object o4=4.3;
+
+string str1=string.Empty;
+str1="Zikriye Ürkmez";
+string ad="Zikriye";
+string soyad="Ürkmez";
+string tamIsim=ad+" "+soyad;
