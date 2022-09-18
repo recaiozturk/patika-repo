@@ -20,7 +20,7 @@ Console.WriteLine("g:" + g);
 
 
 
-//Explicit Concersitin   (Bilinçli Dönüşüm)
+//Explicit Concersitin   (Bilinçli Dönüşüm ss)
 int x = 4;
 byte y = (byte)x;
 Console.WriteLine("y:" + y);
