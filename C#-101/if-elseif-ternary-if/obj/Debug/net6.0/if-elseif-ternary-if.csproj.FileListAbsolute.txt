@@ -1,0 +1,15 @@
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.AssemblyInfo.cs
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\bin\Debug\net6.0\if-elseif-ternary-if.exe
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\bin\Debug\net6.0\if-elseif-ternary-if.deps.json
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\bin\Debug\net6.0\if-elseif-ternary-if.runtimeconfig.json
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\bin\Debug\net6.0\if-elseif-ternary-if.dll
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\bin\Debug\net6.0\if-elseif-ternary-if.pdb
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.dll
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\refint\if-elseif-ternary-if.dll
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.pdb
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\if-elseif-ternary-if.genruntimeconfig.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\if-elseif-ternary-if\obj\Debug\net6.0\ref\if-elseif-ternary-if.dll

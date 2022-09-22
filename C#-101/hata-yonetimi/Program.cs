@@ -5,10 +5,12 @@ try
     int sayi = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Girmiş Olduğunuz Sayi : " + sayi);
 }
+
 catch (Exception ex)
 {
     Console.WriteLine(ex.Message.ToString());
 }
+
 finally
 {
     Console.WriteLine("İşlem Tamamlandı");
@@ -41,7 +43,7 @@ catch (OverflowException ex)
 }
 finally
 {
-Console.WriteLine("İşlem Basarı ile tamamlandı");
+    Console.WriteLine("İşlem Basarı ile tamamlandı");
 }
 
 
