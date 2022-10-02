@@ -1,0 +1,15 @@
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\bin\Debug\net6.0\for-loop-break-contunie.exe
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\bin\Debug\net6.0\for-loop-break-contunie.deps.json
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\bin\Debug\net6.0\for-loop-break-contunie.runtimeconfig.json
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\bin\Debug\net6.0\for-loop-break-contunie.dll
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\bin\Debug\net6.0\for-loop-break-contunie.pdb
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.AssemblyInfoInputs.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.AssemblyInfo.cs
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.dll
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\refint\for-loop-break-contunie.dll
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.pdb
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\for-loop-break-contunie.genruntimeconfig.cache
+C:\Users\90531\Desktop\patika-repo\C#-101\for-loop-break-contunie\obj\Debug\net6.0\ref\for-loop-break-contunie.dll
